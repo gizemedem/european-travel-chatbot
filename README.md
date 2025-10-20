@@ -13,7 +13,7 @@ Avrupa şehirleri hakkında gerçek zamanlı bilgi sağlayan yapay zeka destekli
 
 **🔗 Demo Linki:** [https://huggingface.co/spaces/Gizem08/european-travel-chatbot](https://huggingface.co/spaces/Gizem08/european-travel-chatbot)
 
-**🎥 Video Demo:** [YouTube Linki](YOUR_VIDEO_LINK)
+**🎥 Video Demo:** [YouTube Linki](https://youtu.be/M-TNAW44i-k)
 
 ---
 
